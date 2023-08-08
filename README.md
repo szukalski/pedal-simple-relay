@@ -22,6 +22,7 @@ Through-hole implementation of a [design by Chuck D. Bones](https://forum.pedalp
 This is based around the Fujitsu [FTR-B3A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf) and [FTR-B4A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b4.pdf) signal relays. Either can be used.
 
 [Bill of Materials](relay-v1.1/relay-v1.1-bom.pdf)
-
+[Gerber Zip File](relay-v1.1/relay-v1.1-gerber.zip)
+[Gerber Zip File with JLCPCB location](relay-v1.1/relay-v1.1-gerber-JLCPCB.zip)
 ![Schematic](relay-v1.1/relay-v1.1-schematic.png)
 ![PCB](relay-v1.1/relay-v1.1-pcb.png)
