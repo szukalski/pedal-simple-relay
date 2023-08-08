@@ -12,13 +12,13 @@ There is no support supplied or guaranteed for these just because I can't scale 
 
 My preferred method to use these is to connect them to the PCB with pin headers.
 
-![Relay v1.1 Build](relay-v1.1/relay-v1.1-build.png)
-
 ## Simple relay v1.1
 
 Through-hole implementation of a [design by Chuck D. Bones](https://forum.pedalpcb.com/threads/a-simple-relay-bypass.16474/) at the [PedalPCB forums](https://forum.pedalpcb.com/).
 
 This is based around the Fujitsu [FTR-B3A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf) and [FTR-B4A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b4.pdf) signal relays. Either can be used.
+
+![Relay v1.1 Build](relay-v1.1/relay-v1.1-build.png)
 
 [Bill of Materials](relay-v1.1/relay-v1.1-bom.pdf)
 
@@ -36,6 +36,8 @@ SMT implementation of a [design by Chuck D. Bones](https://forum.pedalpcb.com/th
 It's the same as the through-hole but made for SMT assembly at JLCPCB, it uses basic parts except for the relay. You may want to purchase the relay separately and install it yourself to save costs.
 
 This is based around the Fujitsu [FTR-B3A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf) and [FTR-B4A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b4.pdf) signal relays. Either can be used.
+
+![Relay v2.0 Build](relay-v2.0/relay-v2.0-build.png)
 
 [Bill of Materials (PDF)](relay-v2.0/relay-v2.0-bom.pdf)
 
