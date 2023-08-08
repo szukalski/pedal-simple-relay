@@ -4,16 +4,15 @@
 
 If you want to use these commercially, just reach out and we can chat.
 
-## Description
+## Introduction
 
-Simple relay designs for use in DIY effects pedals.
+Simple relay designs for use in DIY effects pedals. I want to share these because this is what the DIY effects community is all about.
 
-This repository contains:
+There is no support supplied or guaranteed for these just because I can't scale my time to support others, as much as I would love to.
 
-* A gerber file to produce the PCB.
-* A gerber file to produce the PCB with a location specified for the production number if using JLCPCB.
+My preferred method to use these is to connect them to the PCB with pin headers.
 
-There is no support supplied or guaranteed for the PCB. I have built it and it works, YMMV.
+![Relay v1.1 Build](relay-v1.1/relay-v1.1-build.png)
 
 ## Simple relay v1.1
 
@@ -23,9 +22,9 @@ This is based around the Fujitsu [FTR-B3A4.5](https://www.fcl.fujitsu.com/downlo
 
 [Bill of Materials](relay-v1.1/relay-v1.1-bom.pdf)
 
-[Gerber Zip File](relay-v1.1/relay-v1.1-gerber.zip)
+[Gerber](relay-v1.1/relay-v1.1-gerber.zip)
 
-[Gerber Zip File with JLCPCB location](relay-v1.1/relay-v1.1-gerber-JLCPCB.zip)
+[Gerber with JLCPCB location](relay-v1.1/relay-v1.1-gerber-JLCPCB.zip)
 
 ![Schematic](relay-v1.1/relay-v1.1-schematic.png)
 ![PCB](relay-v1.1/relay-v1.1-pcb.png)
@@ -38,7 +37,15 @@ It's the same as the through-hole but made for SMT assembly at JLCPCB, it uses b
 
 This is based around the Fujitsu [FTR-B3A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf) and [FTR-B4A4.5](https://www.fcl.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b4.pdf) signal relays. Either can be used.
 
+[Bill of Materials (PDF)](relay-v2.0/relay-v2.0-bom.pdf)
 
+[Bill of Materials for JLCPCB Assembly](relay-v2.0/relay-v2.0-bom.csv)
+
+[Pick and Place for JLCPCB Assembly](relay-v2.0/relay-v2.0-cpl.csv)
+
+[Gerber](relay-v2.0/relay-v2.0-gerber.zip)
+
+[Gerber with JLCPCB location](relay-v2.0/relay-v2.0-gerber-JLCPCB.zip)
 
 ![Schematic](relay-v2.0/relay-v2.0-schematic.png)
 ![PCB](relay-v2.0/relay-v2.0-pcb.png)
