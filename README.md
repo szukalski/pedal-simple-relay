@@ -50,4 +50,23 @@ This is based around the Fujitsu [FTR-B3A4.5](https://www.fcl.fujitsu.com/downlo
 [Gerber with JLCPCB location](relay-v2.0/relay-v2.0-gerber-JLCPCB.zip)
 
 ![Schematic](relay-v2.0/relay-v2.0-schematic.png)
+
 ![PCB](relay-v2.0/relay-v2.0-pcb.png)
+
+## Simple relay v2.1
+
+Same as v2.0 but with a smaller layout.
+
+![Relay v2.1 Build](relay-v2.1/relay-v2.1-build.png)
+
+[Bill of Materials (PDF)](relay-v2.1/relay-v2.1-bom.pdf)
+
+[Bill of Materials for JLCPCB Assembly](relay-v2.1/relay-v2.1-bom.csv)
+
+[Pick and Place for JLCPCB Assembly](relay-v2.1/relay-v2.1-cpl.csv)
+
+[Gerber](relay-v2.1/relay-v2.1-gerber.zip)
+
+![Schematic](relay-v2.1/relay-v2.1-schematic.png)
+
+![PCB](relay-v2.1/relay-v2.1-pcb.png)
